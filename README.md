@@ -1,5 +1,5 @@
 # samyak-s-git
-<img src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966" align="right" >
+<img src="https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966" margin-left="200px" >
 <h1 align="center">Hi , I'm Samyak Kothari</h1>
 <h3 align="center">I am a passionate coder,I like experimenting with new technologies, small projects and exciting hackathons Machine learning and Frontend development excites me the most</h3>
 <img src=
